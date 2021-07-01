@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'dạ =)) <33333333',
     mess: 'c đi làm kiếm cơm đây 🥰. bé dậy tắm rửa ăn uống vào k đau bao tử đấy 😘😘',
     messDesc: 'Tí làm về c ib bé nhá.',
-    btnAccept: 'Dạ thì dạ k dạ thì dạ :>> <3',
+    btnAccept: 'Dạ thì dạ k dạ thì dạ. :>> <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
